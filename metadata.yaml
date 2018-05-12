@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '2003'
     url: http://www.gutenberg.org/2009/agents/2003
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21857#Joyce-s-Investments--A-Story-for-Girls
 gutenberg_issued: '2007-06-18'
 gutenberg_type: Text
 identifiers:
